@@ -1,15 +1,10 @@
-# Hi there 👋, I'm Vladislav
+## Hi there 👋, I'm Vladislav
 
-## I'm a Frontend Developer, but not only :D
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🍀 I’m a Frontend Developer, but not only :D
+- ⚡️ I’m interested to create modern software
+- 🌱 I’m currently learning advanced frontend tools and concepts
+- 🤩 I’m passionate, creative and communicative
+- ⚽️ I'm a big fan of football
 
 ### Languages and Tools
 
@@ -24,3 +19,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase)
 ![Other](https://img.shields.io/badge/...-000000?style=for-the-badge)
+
+### Connect with me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:the.vladhaiduk@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vladhaidukkk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-haiduk-5412871b1/)
