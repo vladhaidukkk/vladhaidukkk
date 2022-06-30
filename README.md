@@ -1,9 +1,6 @@
-### Hi there 👋
+# Hi there 👋, I'm Vladislav
 
-<!--
-**vladhaidukkk/vladhaidukkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## I'm a Frontend Developer, but not only :D
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### Languages and Tools
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase)
+![Other](https://img.shields.io/badge/...-000000?style=for-the-badge)
