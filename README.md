@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Vladislav
+## Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" style="margin-bottom: -3px" />, I'm Vlad
 
 - 🍀 I’m a Full Stack Developer, but not only
 - ⚡️ I’m interested to create modern software
@@ -6,7 +6,7 @@
 - 🤩 I’m passionate, creative and communicative
 - ⚽️ I'm a big fan of football :D
 
-### Languages and Tools
+### My Skills
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
