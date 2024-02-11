@@ -5,3 +5,7 @@ I'm Vlad, a backend developer from 🇺🇦 **Ukraine, Lviv** who loves working 
 🚀 I specialize in building scalable applications and optimizing databases. I enjoy the challenges of computer science, from algorithms to system architecture.
 
 🔍 Check out my projects and feel free to connect for a chat or collaboration. Cheers to more coding adventures! 🎉🐍
+
+---
+
+![Codewars](https://www.codewars.com/users/vladhaiduk/badges/large)
