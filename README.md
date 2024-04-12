@@ -1,7 +1,4 @@
-<h1 style="display: flex; align-items: end;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="60" height="60" style="position: absolute;" />
-    <span style="padding-left: 60px;">Vladyslav Haiduk</span>
-</h1>
+# 🐬️ Vladyslav Haiduk
 
 **`Backend Maestro | Software Engineer | Lifelong Learner`**
 
@@ -26,10 +23,7 @@ build robust backends that stand the test of scale and efficiency.
 - 🔗 LinkedIn: [vladyslav-haiduk](https://www.linkedin.com/in/vladyslav-haiduk-profile)
 - 📲 Telegram: [@vladhaidukkk](https://t.me/vladhaidukkk)
 
-<h3 style="display: flex; align-items: center; gap: 5px;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" />
-    <span>Stats</span>
-</h3>
+### 📊 Stats
 
 <div style="display: flex; gap: 10px; margin-bottom: 5px">
     <a href="https://www.github.com/vladhaidukkk">
