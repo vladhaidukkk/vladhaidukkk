@@ -1,4 +1,4 @@
-# 🐬️ Vladyslav Haiduk
+# 🃏 Vladyslav Haiduk
 
 **`Backend Maestro | Software Engineer | Lifelong Learner`**
 
@@ -19,13 +19,13 @@ build robust backends that stand the test of scale and efficiency.
 
 📫 **Let's Connect!** - I'm always open to discussing new technologies, projects, or potential collaborations.
 
-- 📧 Email: [the.vladhaiduk@gmail.com](mailto:the.vladhaiduk@gmail.com)
-- 🔗 LinkedIn: [vladyslav-haiduk](https://www.linkedin.com/in/vladyslav-haiduk-profile)
-- 📲 Telegram: [@vladhaidukkk](https://t.me/vladhaidukkk)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:the.vladhaiduk@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-haiduk-profile)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vladhaidukkk)
 
-### 📊 Stats
+## 📊 Stats
 
-<div style="display: flex; gap: 10px; margin-bottom: 5px">
+<div>
     <a href="https://www.github.com/vladhaidukkk">
         <img
             src="https://github-readme-stats.vercel.app/api?username=vladhaidukkk&show_icons=true&hide=issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true"
