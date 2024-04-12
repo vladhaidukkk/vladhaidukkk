@@ -42,4 +42,4 @@ build robust backends that stand the test of scale and efficiency.
     </a>
 </div>
 
-<img src="https://www.codewars.com/users/vladhaiduk/badges/large" alt="Codewars" />
+![Codewars](https://www.codewars.com/users/vladhaiduk/badges/large)
