@@ -1,11 +1,51 @@
-# Hey! Nice to see you <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" style="margin-bottom: -3px" />
+<h1 style="display: flex; align-items: end;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="60" height="60" style="position: absolute;" />
+    <span style="padding-left: 60px;">Vladyslav Haiduk</span>
+</h1>
 
-I'm Vlad, a backend developer from 🇺🇦 **Ukraine, Lviv** who loves working with Python. 💻 While I've dabbled in frontend, my true passion is creating robust and efficient server-side solutions.
+**`Backend Maestro | Software Engineer | Lifelong Learner`**
 
-🚀 I specialize in building scalable applications and optimizing databases. I enjoy the challenges of computer science, from algorithms to system architecture.
+🔭 I'm a developer with a burning passion for backend architecture and engineering. My journey in tech is driven by an
+insatiable desire to deepen my expertise and tackle the toughest challenges head-on.
 
-🔍 Check out my projects and feel free to connect for a chat or collaboration. Cheers to more coding adventures! 🎉🐍
+🌱 **Always Evolving** - I believe in continuous learning and strive to enhance my skills every day. Whether it's
+mastering new frameworks, languages, or architectural patterns, I'm on it.
 
----
+💡 **Passionate Problem Solver** - No challenge is too daunting for me. I thrive on solving complex problems, delivering
+efficient and scalable solutions that drive success.
 
-![Codewars](https://www.codewars.com/users/vladhaiduk/badges/large)
+🤝 **Team Player and Mentor** - Collaboration and knowledge sharing are part of my core values. I enjoy working in
+diverse teams, mentoring peers, and contributing to a positive, productive environment.
+
+🚀 **Technologies and Tools** - From Python to Docker, Kubernetes, and beyond, I'm equipped with an arsenal of tools to
+build robust backends that stand the test of scale and efficiency.
+
+📫 **Let's Connect!** - I'm always open to discussing new technologies, projects, or potential collaborations.
+
+- 📧 Email: [the.vladhaiduk@gmail.com](mailto:the.vladhaiduk@gmail.com)
+- 🔗 LinkedIn: [vladyslav-haiduk](https://www.linkedin.com/in/vladyslav-haiduk-profile)
+- 📲 Telegram: [@vladhaidukkk](https://t.me/vladhaidukkk)
+
+<h3 style="display: flex; align-items: center; gap: 5px;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" />
+    <span>Stats</span>
+</h3>
+
+<div style="display: flex; gap: 10px; margin-bottom: 5px">
+    <a href="https://www.github.com/vladhaidukkk">
+        <img
+            src="https://github-readme-stats.vercel.app/api?username=vladhaidukkk&show_icons=true&hide=issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true"
+            alt="GitHub Stats"
+            height="150"
+        />
+    </a>
+    <a href="https://www.github.com/vladhaidukkk">
+        <img
+            src="https://github-readme-streak-stats.herokuapp.com/?user=vladhaidukkk&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
+            alt="GitHub Streak Stats"
+            height="150"
+        />
+    </a>
+</div>
+
+<img src="https://www.codewars.com/users/vladhaiduk/badges/large" alt="Codewars" />
